@@ -1,0 +1,1084 @@
+[
+  {
+    "id": "cafe-01",
+    "slug": "chelvies-coffee-m-block",
+    "name": "Chelvies Coffee - M Block",
+    "category": "cafe",
+    "area": "Connaught Place",
+    "city": "New Delhi",
+    "address": "M-6, Connaught Place, New Delhi 110001",
+    "costForTwo": 1400,
+    "foodScore": 8,
+    "mustOrder": [
+      "Mango Tres Leches",
+      "rose latte"
+    ],
+    "foodNote": "Strong specialty drinks and a broad café menu; desserts are the safer food bet.",
+    "wifi": true,
+    "workScore": 9,
+    "noise": "Moderate",
+    "sockets": "Plenty",
+    "bestFor": [
+      "Deep work",
+      "long sessions"
+    ],
+    "laptopTolerance": "High",
+    "recommendedDuration": "3-5 hours",
+    "bestTime": "Weekdays 9 AM-1 PM",
+    "evidenceBasis": "Fast Wi-Fi, many sockets and comfortable seating are directly reported; work score is editorial judgment.",
+    "confidence": "High",
+    "sources": [
+      "https://chelviescoffee.com/store-locator/delhi/chelvies-coffee-connaught-place-delhi",
+      "https://placesoflinda.com/best-places-to-work-in-delhi/"
+    ],
+    "lastVerified": "2026-08-12",
+    "googleQuery": "Chelvies Coffee - M Block, M-6, Connaught Place, New Delhi 110001",
+    "source": "csv"
+  },
+  {
+    "id": "cafe-02",
+    "slug": "third-wave-coffee-e-block",
+    "name": "Third Wave Coffee - E Block",
+    "category": "cafe",
+    "area": "Connaught Place",
+    "city": "New Delhi",
+    "address": "Shop 11, E Block, Mezzanine Floor, Connaught Place, New Delhi 110001",
+    "costForTwo": 850,
+    "foodScore": 7,
+    "mustOrder": [
+      "Sea Salt Mocha",
+      "butter croissant"
+    ],
+    "foodNote": "Reliable coffee and bakery pairings; choose it for beverages and light bites rather than a full meal.",
+    "wifi": true,
+    "workScore": 7,
+    "noise": "Lively",
+    "sockets": "Some",
+    "bestFor": [
+      "Short work sessions",
+      "casual meetings"
+    ],
+    "laptopTolerance": "Medium",
+    "recommendedDuration": "1-3 hours",
+    "bestTime": "Weekdays before 12 PM",
+    "evidenceBasis": "Official outlet page verifies branch; chain-level Wi-Fi and socket evidence is applied cautiously to this busy outlet.",
+    "confidence": "Medium",
+    "sources": [
+      "https://stores.thirdwavecoffeeroasters.com/store-pages/third-wave-coffee-e-block-connaught-place-new-delhi/",
+      "https://lbb.in/delhi/free-wifi-cafes-delhi-ncr/"
+    ],
+    "lastVerified": "2026-08-12",
+    "googleQuery": "Third Wave Coffee - E Block, Shop 11, E Block, Mezzanine Floor, Connaught Place, New Delhi 110001",
+    "source": "csv"
+  },
+  {
+    "id": "cafe-03",
+    "slug": "cha-bar-oxford-bookstore",
+    "name": "Cha Bar - Oxford Bookstore",
+    "category": "cafe",
+    "area": "Connaught Place",
+    "city": "New Delhi",
+    "address": "Upper Ground Floor, Dr Gopal Das Bhawan, 28 Barakhamba Road, New Delhi 110001",
+    "costForTwo": 400,
+    "foodScore": 7,
+    "mustOrder": [
+      "Masala Cha",
+      "smoked chicken pasta"
+    ],
+    "foodNote": "Excellent tea variety and fair-value café food, though execution can be less consistent than the drinks.",
+    "wifi": true,
+    "workScore": 8,
+    "noise": "Quiet",
+    "sockets": "Limited",
+    "bestFor": [
+      "Reading",
+      "study",
+      "solo work"
+    ],
+    "laptopTolerance": "High",
+    "recommendedDuration": "2-4 hours",
+    "bestTime": "Weekdays 10 AM-1 PM",
+    "evidenceBasis": "Listing identifies Wi-Fi, quieter environment and work friendliness; sockets are not consistently documented.",
+    "confidence": "High",
+    "sources": [
+      "https://www.zomato.com/ncr/cha-bar-connaught-place-new-delhi",
+      "https://www.eazydiner.com/delhi-ncr/cha-bar-connaught-place-110100"
+    ],
+    "lastVerified": "2026-08-12",
+    "googleQuery": "Cha Bar - Oxford Bookstore, Upper Ground Floor, Dr Gopal Das Bhawan, 28 Barakhamba Road, New Delhi 110001",
+    "source": "csv"
+  },
+  {
+    "id": "cafe-04",
+    "slug": "ama-cafe",
+    "name": "AMA Cafe",
+    "category": "cafe",
+    "area": "Majnu Ka Tila",
+    "city": "New Delhi",
+    "address": "House 6, New Colony, Majnu Ka Tila, New Delhi 110054",
+    "costForTwo": 900,
+    "foodScore": 9,
+    "mustOrder": [
+      "Pancake breakfast",
+      "choco-walnut brownie"
+    ],
+    "foodNote": "A standout for generous breakfast plates, bakery items and value; queues can affect the experience.",
+    "wifi": true,
+    "workScore": 7,
+    "noise": "Lively at peak",
+    "sockets": "Limited",
+    "bestFor": [
+      "Early breakfast",
+      "study"
+    ],
+    "laptopTolerance": "Medium",
+    "recommendedDuration": "2-3 hours",
+    "bestTime": "Weekdays 7:30-10:30 AM",
+    "evidenceBasis": "Smooth Wi-Fi and early opening are directly reported; popularity makes peak-period noise and seating less suitable for long work.",
+    "confidence": "High",
+    "sources": [
+      "https://lbb.in/delhi/free-wifi-cafes-delhi-ncr/",
+      "https://seamlesssocials.in/blogs/food-cafe-experiences/best-cafes-in-delhi-for-work-chill-the-2026-guide-to-productivity-vibes"
+    ],
+    "lastVerified": "2026-08-12",
+    "googleQuery": "AMA Cafe, House 6, New Colony, Majnu Ka Tila, New Delhi 110054",
+    "source": "csv"
+  },
+  {
+    "id": "cafe-05",
+    "slug": "cafeteria-and-co",
+    "name": "Cafeteria & Co.",
+    "category": "cafe",
+    "area": "Hudson Lane",
+    "city": "New Delhi",
+    "address": "G-14, Hudson Lane, Vijay Nagar, New Delhi 110009",
+    "costForTwo": 1000,
+    "foodScore": 9,
+    "mustOrder": [
+      "Chicken creamy peri-peri pasta",
+      "Tropical Heaven sundae"
+    ],
+    "foodNote": "Large multi-cuisine menu with well-liked pastas, grills and desserts; portions suit sharing.",
+    "wifi": true,
+    "workScore": 7,
+    "noise": "Moderate",
+    "sockets": "Some",
+    "bestFor": [
+      "Group work",
+      "casual meetings"
+    ],
+    "laptopTolerance": "Medium",
+    "recommendedDuration": "2-3 hours",
+    "bestTime": "Weekdays 11:30 AM-1 PM",
+    "evidenceBasis": "Current listing identifies Wi-Fi, less-noisy setting and work friendliness; socket availability is an editorial estimate.",
+    "confidence": "High",
+    "sources": [
+      "https://www.zomato.com/ncr/cafeteria-co-vijay-nagar-new-delhi",
+      "https://laptopfriendly.co/delhi"
+    ],
+    "lastVerified": "2026-08-12",
+    "googleQuery": "Cafeteria & Co., G-14, Hudson Lane, Vijay Nagar, New Delhi 110009",
+    "source": "csv"
+  },
+  {
+    "id": "cafe-06",
+    "slug": "third-wave-coffee-gk2",
+    "name": "Third Wave Coffee - GK2",
+    "category": "cafe",
+    "area": "Greater Kailash 2",
+    "city": "New Delhi",
+    "address": "M-44, M Block Market, Greater Kailash II, New Delhi 110048",
+    "costForTwo": 850,
+    "foodScore": 7,
+    "mustOrder": [
+      "Sea Salt Mocha",
+      "butter croissant"
+    ],
+    "foodNote": "Reliable coffee and bakery pairings; choose it for beverages and light bites rather than a full meal.",
+    "wifi": true,
+    "workScore": 8,
+    "noise": "Moderate",
+    "sockets": "Some",
+    "bestFor": [
+      "Focused work",
+      "coffee meetings"
+    ],
+    "laptopTolerance": "High",
+    "recommendedDuration": "2-4 hours",
+    "bestTime": "Weekdays 8-11 AM",
+    "evidenceBasis": "Official page and outlet review text confirm laptop work and free Wi-Fi; the broader work guide reports mindfully placed sockets.",
+    "confidence": "High",
+    "sources": [
+      "https://stores.thirdwavecoffeeroasters.com/store-pages/third-wave-coffee-greater-kailash-2-new-delhi/",
+      "https://seamlesssocials.in/blogs/food-cafe-experiences/best-cafes-in-delhi-for-work-chill-the-2026-guide-to-productivity-vibes"
+    ],
+    "lastVerified": "2026-08-12",
+    "googleQuery": "Third Wave Coffee - GK2, M-44, M Block Market, Greater Kailash II, New Delhi 110048",
+    "source": "csv"
+  },
+  {
+    "id": "cafe-07",
+    "slug": "blu-turkey-cafe",
+    "name": "Blu Turkey Cafe",
+    "category": "cafe",
+    "area": "Greater Kailash 1",
+    "city": "New Delhi",
+    "address": "C-30, Ground Floor, Greater Kailash 1, New Delhi 110048",
+    "costForTwo": 950,
+    "foodScore": 8,
+    "mustOrder": [
+      "Creamy cheese-sauce pasta",
+      "chocolate-cinnamon waffle"
+    ],
+    "foodNote": "Comfort-led café menu with popular pasta, sandwiches and waffles; richer dishes are the main draw.",
+    "wifi": true,
+    "workScore": 9,
+    "noise": "Quiet",
+    "sockets": "Some",
+    "bestFor": [
+      "Deep work",
+      "client meetings"
+    ],
+    "laptopTolerance": "High",
+    "recommendedDuration": "3-5 hours",
+    "bestTime": "Weekdays 9:30 AM-2 PM",
+    "evidenceBasis": "Cafe states it is laptop-friendly with fast Wi-Fi, calm ambience and charging at select seats; price is from a current dining listing.",
+    "confidence": "High",
+    "sources": [
+      "https://bluturkeycafe.com/blog/best-work-friendly-cafe-gk1-wifi-great-coffee",
+      "https://www.zomato.com/ncr/blu-turkey-cafe-greater-kailash-gk-1-new-delhi"
+    ],
+    "lastVerified": "2026-08-12",
+    "googleQuery": "Blu Turkey Cafe, C-30, Ground Floor, Greater Kailash 1, New Delhi 110048",
+    "source": "csv"
+  },
+  {
+    "id": "cafe-08",
+    "slug": "getafix-kailash-colony",
+    "name": "Getafix - Kailash Colony",
+    "category": "cafe",
+    "area": "Greater Kailash 1",
+    "city": "New Delhi",
+    "address": "HS-17, Ground Floor, Kailash Colony Market, New Delhi 110048",
+    "costForTwo": 1500,
+    "foodScore": 9,
+    "mustOrder": [
+      "Soba noodles",
+      "sugarless brownie"
+    ],
+    "foodNote": "One of the strongest healthy-food menus here, with good vegan and gluten-conscious options.",
+    "wifi": true,
+    "workScore": 8,
+    "noise": "Moderate",
+    "sockets": "Some",
+    "bestFor": [
+      "Healthy brunch",
+      "focused work"
+    ],
+    "laptopTolerance": "High",
+    "recommendedDuration": "2-4 hours",
+    "bestTime": "Weekdays 9 AM-12 PM",
+    "evidenceBasis": "Free Wi-Fi and work-friendly positioning are reported; current price and branch are verified by dining listings.",
+    "confidence": "High",
+    "sources": [
+      "https://www.zomato.com/ncr/getafix-kailash-colony-new-delhi",
+      "https://lbb.in/delhi/free-wifi-cafes-delhi-ncr/"
+    ],
+    "lastVerified": "2026-08-12",
+    "googleQuery": "Getafix - Kailash Colony, HS-17, Ground Floor, Kailash Colony Market, New Delhi 110048",
+    "source": "csv"
+  },
+  {
+    "id": "cafe-09",
+    "slug": "cultured-cafe",
+    "name": "Cultured Cafe",
+    "category": "cafe",
+    "area": "Safdarjung / Humayunpur",
+    "city": "New Delhi",
+    "address": "House 168, 2nd Floor, Humayunpur, near NCC Gate, New Delhi 110029",
+    "costForTwo": 2000,
+    "foodScore": 9,
+    "mustOrder": [
+      "Basque cheesecake",
+      "Cultured on a Toast"
+    ],
+    "foodNote": "Brunch and desserts are the highlights; premium pricing is offset by distinctive bakery execution.",
+    "wifi": true,
+    "workScore": 8,
+    "noise": "Quiet",
+    "sockets": "Some",
+    "bestFor": [
+      "Deep work",
+      "creative work"
+    ],
+    "laptopTolerance": "High",
+    "recommendedDuration": "2-4 hours",
+    "bestTime": "Weekdays 10:30 AM-1 PM",
+    "evidenceBasis": "Current listings explicitly identify Wi-Fi, less-noisy atmosphere and work friendliness; power points are reported in work-cafe coverage.",
+    "confidence": "High",
+    "sources": [
+      "https://www.zomato.com/ncr/cultured-cafe-safdarjung-new-delhi",
+      "https://www.district.in/dining/ncr/cultured-cafe-safdarjung-new-delhi"
+    ],
+    "lastVerified": "2026-08-12",
+    "googleQuery": "Cultured Cafe, House 168, 2nd Floor, Humayunpur, near NCC Gate, New Delhi 110029",
+    "source": "csv"
+  },
+  {
+    "id": "cafe-10",
+    "slug": "greenr-cafe-vasant-vihar",
+    "name": "Greenr Cafe - Vasant Vihar",
+    "category": "cafe",
+    "area": "Vasant Vihar",
+    "city": "New Delhi",
+    "address": "4, Basant Lok, Vasant Vihar, New Delhi 110057",
+    "costForTwo": 2200,
+    "foodScore": 9,
+    "mustOrder": [
+      "Sweet-potato fries",
+      "pesto pasta"
+    ],
+    "foodNote": "Excellent vegetarian and vegan food with inventive global flavours; prices are on the higher side.",
+    "wifi": true,
+    "workScore": 8,
+    "noise": "Quiet",
+    "sockets": "Some",
+    "bestFor": [
+      "Creative work",
+      "quiet meetings"
+    ],
+    "laptopTolerance": "High",
+    "recommendedDuration": "2-4 hours",
+    "bestTime": "Weekdays 12:30-3 PM",
+    "evidenceBasis": "Current listing identifies Wi-Fi, less noise and work friendliness; charging points are reported in visitor coverage.",
+    "confidence": "High",
+    "sources": [
+      "https://www.zomato.com/ncr/greenr-cafe-vasant-vihar-new-delhi",
+      "https://lbb.in/delhi/dog-friendly-cafes-delhi/"
+    ],
+    "lastVerified": "2026-08-12",
+    "googleQuery": "Greenr Cafe - Vasant Vihar, 4, Basant Lok, Vasant Vihar, New Delhi 110057",
+    "source": "csv"
+  },
+  {
+    "id": "cafe-11",
+    "slug": "rose-cafe",
+    "name": "Rose Cafe",
+    "category": "cafe",
+    "area": "Eldeco Centre / Malviya Nagar",
+    "city": "New Delhi",
+    "address": "G6R & G7R1, Ground Floor, Eldeco Centre, near Malviya Nagar Metro, New Delhi",
+    "costForTwo": 2200,
+    "foodScore": 8,
+    "mustOrder": [
+      "Skinny pizza",
+      "dark-chocolate sea-salt caramel cake"
+    ],
+    "foodNote": "Pretty setting backed by solid pizzas and desserts, although recent opinions on consistency are mixed.",
+    "wifi": true,
+    "workScore": 6,
+    "noise": "Lively",
+    "sockets": "Limited",
+    "bestFor": [
+      "Dates",
+      "short creative sessions"
+    ],
+    "laptopTolerance": "Low",
+    "recommendedDuration": "1-2 hours",
+    "bestTime": "Weekdays 12-2 PM",
+    "evidenceBasis": "The relocated branch and Wi-Fi are current; work guide warns that crowding makes stays beyond two hours unsuitable.",
+    "confidence": "High",
+    "sources": [
+      "https://www.zomato.com/ncr/rose-cafe-malviya-nagar-new-delhi",
+      "https://lbb.in/delhi/free-wifi-cafes-delhi-ncr/"
+    ],
+    "lastVerified": "2026-08-12",
+    "googleQuery": "Rose Cafe, G6R & G7R1, Ground Floor, Eldeco Centre, near Malviya Nagar Metro, New Delhi",
+    "source": "csv"
+  },
+  {
+    "id": "cafe-12",
+    "slug": "cafe-dori",
+    "name": "Cafe Dori",
+    "category": "cafe",
+    "area": "Dhan Mill / Chhatarpur",
+    "city": "New Delhi",
+    "address": "Nappa Dori Warehouse, Dhan Mill Compound, 100 Feet Road, Chhatarpur, New Delhi 110074",
+    "costForTwo": 2000,
+    "foodScore": 8,
+    "mustOrder": [
+      "Biscoff shake",
+      "butter croissant"
+    ],
+    "foodNote": "European-style café fare and bakery items complement the design-led setting; beverages are especially dependable.",
+    "wifi": true,
+    "workScore": 7,
+    "noise": "Moderate",
+    "sockets": "Some",
+    "bestFor": [
+      "Creative work",
+      "pet-friendly meetings"
+    ],
+    "laptopTolerance": "Medium",
+    "recommendedDuration": "2-3 hours",
+    "bestTime": "Weekdays 10 AM-1 PM",
+    "evidenceBasis": "Official page verifies the operating cafe; dining and work-cafe coverage report Wi-Fi and suitability for working.",
+    "confidence": "High",
+    "sources": [
+      "https://www.nappadori.com/pages/cafe-dori",
+      "https://lbb.in/delhi/stop-what-youre-doing-47bc39/"
+    ],
+    "lastVerified": "2026-08-12",
+    "googleQuery": "Cafe Dori, Nappa Dori Warehouse, Dhan Mill Compound, 100 Feet Road, Chhatarpur, New Delhi 110074",
+    "source": "csv"
+  },
+  {
+    "id": "cafe-13",
+    "slug": "the-palette",
+    "name": "The Palette",
+    "category": "cafe",
+    "area": "Dhan Mill / Chhatarpur",
+    "city": "New Delhi",
+    "address": "417, 100 Feet Road, near Dhan Mill Compound, Chhatarpur, New Delhi",
+    "costForTwo": 1400,
+    "foodScore": 7,
+    "mustOrder": [
+      "Lotus Biscoff cheesecake",
+      "pasta"
+    ],
+    "foodNote": "Go primarily for the art-café experience; food is decent but reviews are less consistent than the ambience.",
+    "wifi": true,
+    "workScore": 6,
+    "noise": "Moderate",
+    "sockets": "Limited",
+    "bestFor": [
+      "Creative sessions",
+      "dates"
+    ],
+    "laptopTolerance": "Medium",
+    "recommendedDuration": "1-3 hours",
+    "bestTime": "Weekdays 11 AM-2 PM",
+    "evidenceBasis": "High-speed Wi-Fi is reported directly, while the art-led format can add distraction; price and location are current listings.",
+    "confidence": "High",
+    "sources": [
+      "https://www.zomato.com/ncr/the-palette-chhatarpur-new-delhi",
+      "https://lbb.in/delhi/free-wifi-cafes-delhi-ncr/"
+    ],
+    "lastVerified": "2026-08-12",
+    "googleQuery": "The Palette, 417, 100 Feet Road, near Dhan Mill Compound, Chhatarpur, New Delhi",
+    "source": "csv"
+  },
+  {
+    "id": "cafe-14",
+    "slug": "the-grammar-room",
+    "name": "The Grammar Room",
+    "category": "cafe",
+    "area": "Mehrauli",
+    "city": "New Delhi",
+    "address": "6-8, Kalka Das Marg, Ambawatta One Complex, Mehrauli, New Delhi 110030",
+    "costForTwo": 2600,
+    "foodScore": 9,
+    "mustOrder": [
+      "Mushroom Melt",
+      "French toast"
+    ],
+    "foodNote": "Polished all-day brunch with strong savoury plates and desserts; premium but among the best food options listed.",
+    "wifi": true,
+    "workScore": 7,
+    "noise": "Quiet",
+    "sockets": "Limited",
+    "bestFor": [
+      "Client meetings",
+      "creative work"
+    ],
+    "laptopTolerance": "Medium",
+    "recommendedDuration": "1-2 hours",
+    "bestTime": "Weekdays 8:30-11 AM",
+    "evidenceBasis": "Strong Wi-Fi and quiet setting are reported, but premium pricing and limited outlet evidence reduce the long-session recommendation.",
+    "confidence": "High",
+    "sources": [
+      "https://www.zomato.com/ncr/the-grammar-room-mehrauli-new-delhi",
+      "https://seamlesssocials.in/blogs/food-cafe-experiences/best-cafes-in-delhi-for-work-chill-the-2026-guide-to-productivity-vibes"
+    ],
+    "lastVerified": "2026-08-12",
+    "googleQuery": "The Grammar Room, 6-8, Kalka Das Marg, Ambawatta One Complex, Mehrauli, New Delhi 110030",
+    "source": "csv"
+  },
+  {
+    "id": "cafe-15",
+    "slug": "starbucks-coffee-defence-colony",
+    "name": "Starbucks Coffee - Defence Colony",
+    "category": "cafe",
+    "area": "Defence Colony",
+    "city": "New Delhi",
+    "address": "D-27, Ground Floor, Defence Colony, New Delhi 110024",
+    "costForTwo": 900,
+    "foodScore": 7,
+    "mustOrder": [
+      "Java Chip Frappuccino",
+      "tandoori paneer sandwich"
+    ],
+    "foodNote": "Consistent drinks and convenient packaged café food; functional rather than destination dining.",
+    "wifi": true,
+    "workScore": 8,
+    "noise": "Lively",
+    "sockets": "Some",
+    "bestFor": [
+      "Calls",
+      "meetings",
+      "general work"
+    ],
+    "laptopTolerance": "High",
+    "recommendedDuration": "2-4 hours",
+    "bestTime": "Weekdays 8-11 AM",
+    "evidenceBasis": "Current listing verifies branch and price; Starbucks' free Wi-Fi and long-stay work culture are well established, but this outlet can be busy.",
+    "confidence": "Medium",
+    "sources": [
+      "https://www.zomato.com/ncr/starbucks-coffee-defence-colony-new-delhi",
+      "https://about.starbucks.com/history/welcome-wi-fi/"
+    ],
+    "lastVerified": "2026-08-12",
+    "googleQuery": "Starbucks Coffee - Defence Colony, D-27, Ground Floor, Defence Colony, New Delhi 110024",
+    "source": "csv"
+  },
+  {
+    "id": "cafe-16",
+    "slug": "blue-tokai-coffee-roasters-defence-colony",
+    "name": "Blue Tokai Coffee Roasters - Defence Colony",
+    "category": "cafe",
+    "area": "Defence Colony",
+    "city": "New Delhi",
+    "address": "A-57 to A-59, DDA Shopping Complex, Defence Colony, New Delhi 110024",
+    "costForTwo": 900,
+    "foodScore": 8,
+    "mustOrder": [
+      "Spicy mushroom sourdough sandwich",
+      "pistachio-raspberry croissant"
+    ],
+    "foodNote": "Specialty coffee remains the anchor, supported by a stronger-than-average bakery and sandwich menu.",
+    "wifi": true,
+    "workScore": 8,
+    "noise": "Moderate",
+    "sockets": "Some",
+    "bestFor": [
+      "Focused work",
+      "coffee meetings"
+    ],
+    "laptopTolerance": "High",
+    "recommendedDuration": "2-4 hours",
+    "bestTime": "Weekdays 7-11 AM",
+    "evidenceBasis": "Official outlet page confirms Wi-Fi and a good work vibe; socket quantity is a conservative branch-level judgment.",
+    "confidence": "High",
+    "sources": [
+      "https://stores.bluetokaicoffee.com/blue-tokai-coffee-roasters-defence-colony-delhi-cafe-defence-colony-new-delhi-436739/Home",
+      "https://seamlesssocials.in/blogs/food-cafe-experiences/best-cafes-in-delhi-for-work-chill-the-2026-guide-to-productivity-vibes"
+    ],
+    "lastVerified": "2026-08-12",
+    "googleQuery": "Blue Tokai Coffee Roasters - Defence Colony, A-57 to A-59, DDA Shopping Complex, Defence Colony, New Delhi 110024",
+    "source": "csv"
+  },
+  {
+    "id": "cafe-17",
+    "slug": "spaced-out-cafe",
+    "name": "Spaced Out Cafe",
+    "category": "cafe",
+    "area": "Shahpur Jat",
+    "city": "New Delhi",
+    "address": "4A, 2nd Floor, Dada Jungi Road, Shahpur Jat, New Delhi 110049",
+    "costForTwo": 1200,
+    "foodScore": 8,
+    "mustOrder": [
+      "Mushroom-ricotta pizza",
+      "assorted vegetable sandwich"
+    ],
+    "foodNote": "Dependable work-café comfort food with good pizza, sandwiches and shakes; menu is straightforward.",
+    "wifi": true,
+    "workScore": 8,
+    "noise": "Moderate to lively",
+    "sockets": "Plenty",
+    "bestFor": [
+      "Coworking",
+      "solo work"
+    ],
+    "laptopTolerance": "High",
+    "recommendedDuration": "3-5 hours",
+    "bestTime": "Weekdays 10 AM-1 PM",
+    "evidenceBasis": "A current work-cafe listing confirms high-speed internet, charging and workspace use; user reviews note louder music at times.",
+    "confidence": "High",
+    "sources": [
+      "https://myhq.in/flexi/coworking-space/spaced-out-cafe-shahpurjat",
+      "https://www.zomato.com/ncr/spaced-out-cafe-2-shahpur-jat-new-delhi"
+    ],
+    "lastVerified": "2026-08-12",
+    "googleQuery": "Spaced Out Cafe, 4A, 2nd Floor, Dada Jungi Road, Shahpur Jat, New Delhi 110049",
+    "source": "csv"
+  },
+  {
+    "id": "cafe-18",
+    "slug": "chaayos-iit-delhi",
+    "name": "Chaayos - IIT Delhi",
+    "category": "cafe",
+    "area": "Hauz Khas",
+    "city": "New Delhi",
+    "address": "Shop 2, Ground Floor, IIT Delhi, Hauz Khas, New Delhi 110016",
+    "costForTwo": 800,
+    "foodScore": 7,
+    "mustOrder": [
+      "Desi chai with bun maska",
+      "vada pav"
+    ],
+    "foodNote": "Best for Indian tea-time snacks and value combos; heavier meals are not its main strength.",
+    "wifi": true,
+    "workScore": 7,
+    "noise": "Moderate",
+    "sockets": "Some",
+    "bestFor": [
+      "Budget work",
+      "study"
+    ],
+    "laptopTolerance": "Medium",
+    "recommendedDuration": "2-3 hours",
+    "bestTime": "Weekdays 8-11 AM",
+    "evidenceBasis": "Current listing reports good Wi-Fi; chain work friendliness is outlet-dependent, so duration and socket judgments are conservative.",
+    "confidence": "Medium",
+    "sources": [
+      "https://www.zomato.com/ncr/chaayos-chai-snacks-relax-1-hauz-khas-new-delhi",
+      "https://chaayos.com/pages/iitdelhi"
+    ],
+    "lastVerified": "2026-08-12",
+    "googleQuery": "Chaayos - IIT Delhi, Shop 2, Ground Floor, IIT Delhi, Hauz Khas, New Delhi 110016",
+    "source": "csv"
+  },
+  {
+    "id": "cafe-19",
+    "slug": "another-fine-day",
+    "name": "Another Fine Day",
+    "category": "cafe",
+    "area": "Sector 43 / Golf Course Road",
+    "city": "Gurugram",
+    "address": "Ground Floor, MPD Towers, Golf Course Road, Sector 43, Gurugram 122002",
+    "costForTwo": 1200,
+    "foodScore": 9,
+    "mustOrder": [
+      "Eggs Benedict",
+      "pancake stack"
+    ],
+    "foodNote": "A dependable all-day breakfast and Mediterranean café menu with especially strong brunch plates.",
+    "wifi": true,
+    "workScore": 7,
+    "noise": "Quiet",
+    "sockets": "Some",
+    "bestFor": [
+      "Solo work",
+      "breakfast meetings"
+    ],
+    "laptopTolerance": "High",
+    "recommendedDuration": "2-3 hours",
+    "bestTime": "Weekdays 10 AM-1 PM",
+    "evidenceBasis": "Current listing reports free Wi-Fi and a cozy setup; official site verifies the branch and hours.",
+    "confidence": "High",
+    "sources": [
+      "https://www.zomato.com/ncr/another-fine-day-golf-course-road",
+      "https://www.anotherfineday.net/"
+    ],
+    "lastVerified": "2026-08-12",
+    "googleQuery": "Another Fine Day, Ground Floor, MPD Towers, Golf Course Road, Sector 43, Gurugram 122002",
+    "source": "csv"
+  },
+  {
+    "id": "cafe-20",
+    "slug": "di-ghent-cafe",
+    "name": "Di Ghent Cafe",
+    "category": "cafe",
+    "area": "DLF Phase 4",
+    "city": "Gurugram",
+    "address": "207-208A, Level 2, Cross Point Mall, DLF Phase IV, Gurugram 122009",
+    "costForTwo": 2000,
+    "foodScore": 9,
+    "mustOrder": [
+      "Lamb lasagna",
+      "Eggs Benedict"
+    ],
+    "foodNote": "A long-running European breakfast favourite with strong bakery, egg and slow-cooked dishes.",
+    "wifi": true,
+    "workScore": 7,
+    "noise": "Moderate",
+    "sockets": "Limited",
+    "bestFor": [
+      "Breakfast meetings",
+      "light work"
+    ],
+    "laptopTolerance": "Medium",
+    "recommendedDuration": "2-3 hours",
+    "bestTime": "Weekdays 8-11 AM",
+    "evidenceBasis": "Official site verifies the current outlet; work-cafe guides and listings report Wi-Fi, but sockets are not widely documented.",
+    "confidence": "High",
+    "sources": [
+      "https://www.dighent.com/",
+      "https://www.zomato.com/ncr/di-ghent-cafe-dlf-phase-4-gurgaon"
+    ],
+    "lastVerified": "2026-08-12",
+    "googleQuery": "Di Ghent Cafe, 207-208A, Level 2, Cross Point Mall, DLF Phase IV, Gurugram 122009",
+    "source": "csv"
+  },
+  {
+    "id": "cafe-21",
+    "slug": "madison-and-pike",
+    "name": "Madison & Pike",
+    "category": "cafe",
+    "area": "Sector 50 / Nirvana Country",
+    "city": "Gurugram",
+    "address": "Nirvana Courtyard Market, Sector 50, Gurugram 122018",
+    "costForTwo": 1200,
+    "foodScore": 8,
+    "mustOrder": [
+      "Eggs Benedict",
+      "blueberry cheesecake"
+    ],
+    "foodNote": "Breakfast and baked desserts are the strengths, though some recent reviews flag uneven consistency.",
+    "wifi": true,
+    "workScore": 7,
+    "noise": "Quiet",
+    "sockets": "Limited",
+    "bestFor": [
+      "Reading",
+      "brunch work"
+    ],
+    "laptopTolerance": "Medium",
+    "recommendedDuration": "2-3 hours",
+    "bestTime": "Weekdays 8:30-11:30 AM",
+    "evidenceBasis": "Work-cafe guide recommends it for working over breakfast; current listings verify branch and price, while sockets remain uncertain.",
+    "confidence": "Medium",
+    "sources": [
+      "https://www.zomato.com/ncr/madison-pike-sector-50",
+      "https://lbb.in/delhi/free-wifi-cafes-delhi-ncr/"
+    ],
+    "lastVerified": "2026-08-12",
+    "googleQuery": "Madison & Pike, Nirvana Courtyard Market, Sector 50, Gurugram 122018",
+    "source": "csv"
+  },
+  {
+    "id": "cafe-22",
+    "slug": "blue-tokai-coffee-roasters-galleria-market",
+    "name": "Blue Tokai Coffee Roasters - Galleria Market",
+    "category": "cafe",
+    "area": "DLF Phase 4",
+    "city": "Gurugram",
+    "address": "R-1, 2nd Floor, Galleria Market, DLF Phase IV, Gurugram 122002",
+    "costForTwo": 900,
+    "foodScore": 8,
+    "mustOrder": [
+      "Spicy mushroom sourdough sandwich",
+      "pistachio-raspberry croissant"
+    ],
+    "foodNote": "Specialty coffee remains the anchor, supported by a stronger-than-average bakery and sandwich menu.",
+    "wifi": true,
+    "workScore": 7,
+    "noise": "Moderate",
+    "sockets": "Plenty",
+    "bestFor": [
+      "Focused work",
+      "reading"
+    ],
+    "laptopTolerance": "High",
+    "recommendedDuration": "2-4 hours",
+    "bestTime": "Weekdays 8:30 AM-12 PM",
+    "evidenceBasis": "Official listing confirms the branch; reviews report free but sometimes slow Wi-Fi and wall charging points.",
+    "confidence": "High",
+    "sources": [
+      "https://stores.bluetokaicoffee.com/blue-tokai-coffee-roasters-galleria-market-cafe-dlf-gurugram-436747/Home",
+      "https://www.tripadvisor.com/Restaurant_Review-g297615-d13326194-Reviews-Blue_Tokai_Coffee_Roasters-Gurugram_Gurgaon_Gurgaon_District_Haryana.html"
+    ],
+    "lastVerified": "2026-08-12",
+    "googleQuery": "Blue Tokai Coffee Roasters - Galleria Market, R-1, 2nd Floor, Galleria Market, DLF Phase IV, Gurugram 122002",
+    "source": "csv"
+  },
+  {
+    "id": "cafe-23",
+    "slug": "third-wave-coffee-galleria-market",
+    "name": "Third Wave Coffee - Galleria Market",
+    "category": "cafe",
+    "area": "DLF Phase 4",
+    "city": "Gurugram",
+    "address": "SF-53/54, First Floor, Galleria Market, Sector 28, DLF Phase IV, Gurugram 122009",
+    "costForTwo": 850,
+    "foodScore": 7,
+    "mustOrder": [
+      "Sea Salt Mocha",
+      "butter croissant"
+    ],
+    "foodNote": "Reliable coffee and bakery pairings; choose it for beverages and light bites rather than a full meal.",
+    "wifi": true,
+    "workScore": 8,
+    "noise": "Moderate",
+    "sockets": "Some",
+    "bestFor": [
+      "Focused work",
+      "meetings"
+    ],
+    "laptopTolerance": "High",
+    "recommendedDuration": "2-4 hours",
+    "bestTime": "Weekdays 8-11 AM",
+    "evidenceBasis": "Official page verifies the outlet; chain-level evidence supports Wi-Fi, laptop tolerance and charging points.",
+    "confidence": "High",
+    "sources": [
+      "https://stores.thirdwavecoffeeroasters.com/store-pages/third-wave-coffee-galleria-market-gurugram/",
+      "https://lbb.in/delhi/free-wifi-cafes-delhi-ncr/"
+    ],
+    "lastVerified": "2026-08-12",
+    "googleQuery": "Third Wave Coffee - Galleria Market, SF-53/54, First Floor, Galleria Market, Sector 28, DLF Phase IV, Gurugram 122009",
+    "source": "csv"
+  },
+  {
+    "id": "cafe-24",
+    "slug": "getafix-cross-point-mall",
+    "name": "Getafix - Cross Point Mall",
+    "category": "cafe",
+    "area": "DLF Phase 4",
+    "city": "Gurugram",
+    "address": "Shop 14-15, Ground Floor, Cross Point Mall, DLF Phase IV, Gurugram 122009",
+    "costForTwo": 1400,
+    "foodScore": 9,
+    "mustOrder": [
+      "Soba noodles",
+      "sugarless brownie"
+    ],
+    "foodNote": "One of the strongest healthy-food menus here, with good vegan and gluten-conscious options.",
+    "wifi": true,
+    "workScore": 8,
+    "noise": "Quiet",
+    "sockets": "Some",
+    "bestFor": [
+      "Healthy work lunch",
+      "focused work"
+    ],
+    "laptopTolerance": "High",
+    "recommendedDuration": "2-4 hours",
+    "bestTime": "Weekdays 9 AM-12 PM",
+    "evidenceBasis": "Current listings verify the branch and price; free Wi-Fi and work use are reported by cafe and work-cafe sources.",
+    "confidence": "High",
+    "sources": [
+      "https://www.swiggy.com/restaurants/gurgaon/dlf-phase-4/getafix-35603/dineout",
+      "https://lbb.in/delhi/free-wifi-cafes-delhi-ncr/"
+    ],
+    "lastVerified": "2026-08-12",
+    "googleQuery": "Getafix - Cross Point Mall, Shop 14-15, Ground Floor, Cross Point Mall, DLF Phase IV, Gurugram 122009",
+    "source": "csv"
+  },
+  {
+    "id": "cafe-25",
+    "slug": "sandhouse-cafe",
+    "name": "Sandhouse Cafe",
+    "category": "cafe",
+    "area": "32nd Avenue / Sector 15",
+    "city": "Gurugram",
+    "address": "Unit 11, Ground Floor, 32nd Avenue, Sector 15, Gurugram 122001",
+    "costForTwo": 1200,
+    "foodScore": 8,
+    "mustOrder": [
+      "Garden pizza",
+      "Nutty Caramel shake"
+    ],
+    "foodNote": "Casual comfort food and shakes are the sweet spot; pizzas and sandwiches are safer than elaborate mains.",
+    "wifi": true,
+    "workScore": 7,
+    "noise": "Quiet",
+    "sockets": "Some",
+    "bestFor": [
+      "Light work",
+      "relaxed meetings"
+    ],
+    "laptopTolerance": "Medium",
+    "recommendedDuration": "2-3 hours",
+    "bestTime": "Weekdays 11 AM-2 PM",
+    "evidenceBasis": "Current listing identifies Wi-Fi and a less-noisy setting; work guide says indoor seats have the best Wi-Fi.",
+    "confidence": "High",
+    "sources": [
+      "https://www.zomato.com/ncr/sandhouse-caf-sector-15",
+      "https://lbb.in/delhi/free-wifi-cafes-delhi-ncr/"
+    ],
+    "lastVerified": "2026-08-12",
+    "googleQuery": "Sandhouse Cafe, Unit 11, Ground Floor, 32nd Avenue, Sector 15, Gurugram 122001",
+    "source": "csv"
+  },
+  {
+    "id": "cafe-26",
+    "slug": "blue-tokai-coffee-roasters-sector-50",
+    "name": "Blue Tokai Coffee Roasters - Sector 50",
+    "category": "cafe",
+    "area": "Sector 50",
+    "city": "Noida",
+    "address": "B1/49, Central Market, next to Lenskart, Sector 50, Noida 201304",
+    "costForTwo": 900,
+    "foodScore": 8,
+    "mustOrder": [
+      "Spicy mushroom sourdough sandwich",
+      "pistachio-raspberry croissant"
+    ],
+    "foodNote": "Specialty coffee remains the anchor, supported by a stronger-than-average bakery and sandwich menu.",
+    "wifi": true,
+    "workScore": 8,
+    "noise": "Moderate",
+    "sockets": "Some",
+    "bestFor": [
+      "Focused work",
+      "study"
+    ],
+    "laptopTolerance": "High",
+    "recommendedDuration": "2-4 hours",
+    "bestTime": "Weekdays 7-11 AM",
+    "evidenceBasis": "Official page verifies branch, hours and suitability for study/meetings; chain-level evidence supports Wi-Fi and laptop use.",
+    "confidence": "High",
+    "sources": [
+      "https://stores.bluetokaicoffee.com/blue-tokai-coffee-roasters-sector-50-noida-cafe-sector-50-noida-436774/Home",
+      "https://seamlesssocials.in/blogs/food-cafe-experiences/best-cafes-in-delhi-for-work-chill-the-2026-guide-to-productivity-vibes"
+    ],
+    "lastVerified": "2026-08-12",
+    "googleQuery": "Blue Tokai Coffee Roasters - Sector 50, B1/49, Central Market, next to Lenskart, Sector 50, Noida 201304",
+    "source": "csv"
+  },
+  {
+    "id": "cafe-27",
+    "slug": "third-wave-coffee-spectrum-mall",
+    "name": "Third Wave Coffee - Spectrum Mall",
+    "category": "cafe",
+    "area": "Sector 75",
+    "city": "Noida",
+    "address": "Units 9A, 9C & 9D, Ground Floor, Spectrum Mall, Sector 75, Noida 201301",
+    "costForTwo": 850,
+    "foodScore": 7,
+    "mustOrder": [
+      "Sea Salt Mocha",
+      "butter croissant"
+    ],
+    "foodNote": "Reliable coffee and bakery pairings; choose it for beverages and light bites rather than a full meal.",
+    "wifi": true,
+    "workScore": 7,
+    "noise": "Lively",
+    "sockets": "Some",
+    "bestFor": [
+      "General work",
+      "casual meetings"
+    ],
+    "laptopTolerance": "Medium",
+    "recommendedDuration": "2-3 hours",
+    "bestTime": "Weekdays 9-11:30 AM",
+    "evidenceBasis": "Official page verifies the outlet; chain-level Wi-Fi and charging evidence is applied conservatively because mall footfall raises noise.",
+    "confidence": "Medium",
+    "sources": [
+      "https://stores.thirdwavecoffeeroasters.com/store-pages/third-wave-coffee-spectrum-mall-noida/",
+      "https://lbb.in/delhi/free-wifi-cafes-delhi-ncr/"
+    ],
+    "lastVerified": "2026-08-12",
+    "googleQuery": "Third Wave Coffee - Spectrum Mall, Units 9A, 9C & 9D, Ground Floor, Spectrum Mall, Sector 75, Noida 201301",
+    "source": "csv"
+  },
+  {
+    "id": "cafe-28",
+    "slug": "getafix-sector-110",
+    "name": "Getafix - Sector 110",
+    "category": "cafe",
+    "area": "Sector 110",
+    "city": "Noida",
+    "address": "Ground Floor, Lotus Panache, Sector 110, Noida 201304",
+    "costForTwo": 1500,
+    "foodScore": 9,
+    "mustOrder": [
+      "Soba noodles",
+      "sugarless brownie"
+    ],
+    "foodNote": "One of the strongest healthy-food menus here, with good vegan and gluten-conscious options.",
+    "wifi": true,
+    "workScore": 8,
+    "noise": "Quiet",
+    "sockets": "Some",
+    "bestFor": [
+      "Healthy brunch",
+      "focused work"
+    ],
+    "laptopTolerance": "High",
+    "recommendedDuration": "2-4 hours",
+    "bestTime": "Weekdays 9 AM-12 PM",
+    "evidenceBasis": "Current listing reports good Wi-Fi and verifies branch and price; the brand also promotes complimentary high-speed Wi-Fi.",
+    "confidence": "High",
+    "sources": [
+      "https://www.zomato.com/ncr/getafix-sector-110-noida",
+      "https://www.facebook.com/getafix.cafe/posts/spruce-up-your-work-view-with-a-side-of-refreshing-healthy-decadencecome-over-fo/3208468882814991/"
+    ],
+    "lastVerified": "2026-08-12",
+    "googleQuery": "Getafix - Sector 110, Ground Floor, Lotus Panache, Sector 110, Noida 201304",
+    "source": "csv"
+  },
+  {
+    "id": "cafe-29",
+    "slug": "roastery-coffee-house",
+    "name": "Roastery Coffee House",
+    "category": "cafe",
+    "area": "Sector 144",
+    "city": "Noida",
+    "address": "BL004, Roastery Street, near Oxygen Business Park, Sector 144, Noida 201306",
+    "costForTwo": 1600,
+    "foodScore": 9,
+    "mustOrder": [
+      "Roastery Special zucchini fries",
+      "guava cold brew"
+    ],
+    "foodNote": "Broad, crowd-pleasing café menu with excellent coffee, snacks and desserts; consistently popular for full meals.",
+    "wifi": true,
+    "workScore": 8,
+    "noise": "Moderate",
+    "sockets": "Some",
+    "bestFor": [
+      "Long work sessions",
+      "meetings"
+    ],
+    "laptopTolerance": "High",
+    "recommendedDuration": "3-4 hours",
+    "bestTime": "Weekdays 9 AM-12 PM",
+    "evidenceBasis": "Official site verifies the branch; current dining listings explicitly identify Wi-Fi, less noise and work friendliness.",
+    "confidence": "High",
+    "sources": [
+      "https://roasterycoffee.co.in/noida2/",
+      "https://www.zomato.com/ncr/roastery-coffee-house-sector-144-noida"
+    ],
+    "lastVerified": "2026-08-12",
+    "googleQuery": "Roastery Coffee House, BL004, Roastery Street, near Oxygen Business Park, Sector 144, Noida 201306",
+    "source": "csv"
+  },
+  {
+    "id": "cafe-30",
+    "slug": "third-wave-coffee-advant-navis-business-park",
+    "name": "Third Wave Coffee - Advant Navis Business Park",
+    "category": "cafe",
+    "area": "Sector 142",
+    "city": "Noida",
+    "address": "Ground Floor, Tower C Lobby, Advant Navis Business Park, Noida Expressway, Sector 142, Noida 201305",
+    "costForTwo": 850,
+    "foodScore": 7,
+    "mustOrder": [
+      "Sea Salt Mocha",
+      "butter croissant"
+    ],
+    "foodNote": "Reliable coffee and bakery pairings; choose it for beverages and light bites rather than a full meal.",
+    "wifi": true,
+    "workScore": 9,
+    "noise": "Moderate",
+    "sockets": "Plenty",
+    "bestFor": [
+      "Deep work",
+      "office meetings"
+    ],
+    "laptopTolerance": "High",
+    "recommendedDuration": "3-5 hours",
+    "bestTime": "Weekdays 9 AM-1 PM",
+    "evidenceBasis": "Official page verifies the business-park outlet; chain-level work infrastructure plus the office setting support the high work score.",
+    "confidence": "Medium",
+    "sources": [
+      "https://stores.thirdwavecoffeeroasters.com/store-pages/third-wave-coffee-advant-navis-business-park-noida/",
+      "https://seamlesssocials.in/blogs/food-cafe-experiences/best-cafes-in-delhi-for-work-chill-the-2026-guide-to-productivity-vibes"
+    ],
+    "lastVerified": "2026-08-12",
+    "googleQuery": "Third Wave Coffee - Advant Navis Business Park, Ground Floor, Tower C Lobby, Advant Navis Business Park, Noida Expressway, Sector 142, Noida 201305",
+    "source": "csv"
+  }
+]
