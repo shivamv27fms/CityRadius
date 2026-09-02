@@ -67,7 +67,7 @@ npm run typecheck
 npm run build
 ```
 
-The two PowerShell scripts in `scripts/` make the café data reproducible: one converts the source CSV into the typed frontend JSON, and the other generates the repeatable Supabase seed.
+The PowerShell scripts in `scripts/` make the café data reproducible: one converts the source CSV into the typed frontend JSON, and the other generates the repeatable Supabase seed. When place data changes, run `npm run sitemap` and commit the updated `public/sitemap.xml` before deploying.
 
 ## Deploy to Hostinger or GoDaddy
 
@@ -83,7 +83,7 @@ For a subdirectory deployment rather than a domain root, set Vite's `base` and R
 
 Import the repository, add the three `VITE_` environment values in project settings and deploy. `vercel.json` supplies the single-page-app rewrite.
 
-The production domain uses `https://www.cityradius.in` as its canonical URL and redirects the apex domain there. Each build generates `sitemap.xml`; after deployment, submit `https://www.cityradius.in/sitemap.xml` in Google Search Console and request indexing for the homepage, Explore page and representative place pages.
+The production domain uses `https://www.cityradius.in` as its canonical URL and redirects the apex domain there. Vite copies the committed `public/sitemap.xml` into every production build; after deployment, submit `https://www.cityradius.in/sitemap.xml` in Google Search Console and request indexing for the homepage, Explore page and representative place pages.
 
 ## Production notes
 
