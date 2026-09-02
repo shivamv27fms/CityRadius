@@ -41,9 +41,9 @@ Row-level security limits account changes, reviews, photos and saved places to t
 ## Configure safely
 
 1. The frontend is already pointed at `https://qxijwufsxfnhkeaamflo.supabase.co` with its browser-safe publishable key. Run the migration and seed in that project's SQL editor.
-2. In Supabase Auth, set the production Site URL and allow `https://your-domain.example/auth/callback` as a redirect URL. Configure production SMTP before a public launch so magic-link delivery is reliable.
+2. In Supabase Auth, set the production Site URL to `https://www.cityradius.in` and allow `https://www.cityradius.in/auth/callback` as a redirect URL. Configure production SMTP before a public launch so magic-link delivery is reliable.
 3. For local or build-platform deployment, copy `.env.example` to `.env.local`; it already contains the Supabase project URL and publishable key. For plain shared hosting, the same values are already present in `cityradius-config.js`.
-4. In Google Cloud, restrict the browser key to the final site domains (and localhost only while developing). Restrict API access to Maps JavaScript API and Places API (New). Then add it to `.env.local` or the shared-hosting `cityradius-config.js`.
+4. In Google Cloud, restrict the browser key to `https://cityradius.in/*`, `https://www.cityradius.in/*` and localhost only while developing. Restrict API access to Maps JavaScript API and Places API (New), and confirm billing is active. The current key is already wired into `.env.example` and `cityradius-config.js`.
 
 Do not use a Google service-account key or a Supabase service-role key in this frontend. Because the original browser key was shared in chat, restrict it before use; rotating it is the safest option.
 
@@ -72,7 +72,7 @@ The two PowerShell scripts in `scripts/` make the café data reproducible: one c
 ## Deploy to Hostinger or GoDaddy
 
 1. Upload the **contents** of the shared-hosting package to the domain's `public_html` or document-root directory.
-2. Open `cityradius-config.js` and paste the restricted Google browser key. The Supabase project URL and publishable key are already configured; update them only if the project or key changes. No build tools are required on the host.
+2. The restricted Google browser key, Supabase project URL and Supabase publishable key are already present in `cityradius-config.js`. Update them only if a key or project changes. No build tools are required on the host.
 3. Keep the included `.htaccess`; it sends direct links such as `/places/roastery-coffee-house` back to the single-page app.
 4. Use HTTPS and add the final production and `www` domains to both Google key restrictions and Supabase redirect URLs.
 5. Replace the relative Open Graph image URL in `index.html` with the final absolute domain URL if a social platform does not resolve it automatically.
@@ -82,6 +82,8 @@ For a subdirectory deployment rather than a domain root, set Vite's `base` and R
 ## Deploy to Vercel
 
 Import the repository, add the three `VITE_` environment values in project settings and deploy. `vercel.json` supplies the single-page-app rewrite.
+
+The production domain uses `https://www.cityradius.in` as its canonical URL and redirects the apex domain there. Each build generates `sitemap.xml`; after deployment, submit `https://www.cityradius.in/sitemap.xml` in Google Search Console and request indexing for the homepage, Explore page and representative place pages.
 
 ## Production notes
 
